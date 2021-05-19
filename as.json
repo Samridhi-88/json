@@ -1,0 +1,28 @@
+
+[
+  { "emp1": {
+      "name": "2400",
+      "designation": "2400",
+      "age": "2400",
+      "salary": "2400"
+    },
+    "emp2": {
+      "name": "20000",
+      "designation": "20000",
+      "age": "20000",
+      "salary": "20000"
+    },
+    "emp3": {
+      "name": "40000",
+      "designation": "40000",
+      "age": "40000",
+      "salary": "40000"
+    },
+    "emp4": {
+      "name": "63000",
+      "designation": "63000",
+      "age": "63000",
+      "salary": "63000"
+    }
+  }
+]
